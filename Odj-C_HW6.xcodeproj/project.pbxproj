@@ -15,6 +15,7 @@
 		A56499452BA5D503009D3F7E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A56499442BA5D503009D3F7E /* main.m */; };
 		A564994D2BA5D84F009D3F7E /* Robot.m in Sources */ = {isa = PBXBuildFile; fileRef = A564994C2BA5D84F009D3F7E /* Robot.m */; };
 		A56499502BA5DCC5009D3F7E /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A564994F2BA5DCC5009D3F7E /* SceneDelegate.m */; };
+		A56499522BA5F477009D3F7E /* Odj-C_HW6 in Resources */ = {isa = PBXBuildFile; fileRef = A56499512BA5F476009D3F7E /* Odj-C_HW6 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		A564994C2BA5D84F009D3F7E /* Robot.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Robot.m; sourceTree = "<group>"; };
 		A564994E2BA5DC52009D3F7E /* SceneDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SceneDelegate.h; sourceTree = "<group>"; };
 		A564994F2BA5DCC5009D3F7E /* SceneDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SceneDelegate.m; sourceTree = "<group>"; };
+		A56499512BA5F476009D3F7E /* Odj-C_HW6 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "Odj-C_HW6"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +70,7 @@
 				A56499362BA5D501009D3F7E /* AppDelegate.m */,
 				A564994B2BA5D6AC009D3F7E /* Robot.h */,
 				A564994C2BA5D84F009D3F7E /* Robot.m */,
+				A56499512BA5F476009D3F7E /* Odj-C_HW6 */,
 				A564994E2BA5DC52009D3F7E /* SceneDelegate.h */,
 				A564994F2BA5DCC5009D3F7E /* SceneDelegate.m */,
 				A56499382BA5D501009D3F7E /* ViewController.h */,
@@ -140,6 +143,7 @@
 			files = (
 				A56499422BA5D503009D3F7E /* LaunchScreen.storyboard in Resources */,
 				A564993F2BA5D503009D3F7E /* Assets.xcassets in Resources */,
+				A56499522BA5F477009D3F7E /* Odj-C_HW6 in Resources */,
 				A564993D2BA5D501009D3F7E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
